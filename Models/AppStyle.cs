@@ -8,8 +8,8 @@
         public List<string> WitcherWords { get; set; } = new List<string>()
         {
             new string("Garten ist mein Hobby "),
-            new string("Fahradfahren ist mein Hobby "),
-            new string("Resen ist mein Hobby ")
+            new string("Radfahren ist mein Hobby "),
+            new string("Reisen ist mein Hobby ")
         };
 
         public List<TableListModel> TableStyle { get; set; } = new List<TableListModel>()
